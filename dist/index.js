@@ -253,9 +253,9 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     }
   }), _c('text', {
     staticClass: ["greeting"]
-  }, [_vm._v("The environment is eady!")]), _c('switch', {
+  }, [_vm._v("The environment is Ready!")]), _c('switch', {
     attrs: {
-      "checked": "true"
+      "checked": "false"
     }
   }), _c('HelloWorld')], 1)
 },staticRenderFns: []}

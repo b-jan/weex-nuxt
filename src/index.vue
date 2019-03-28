@@ -1,8 +1,8 @@
 <template>
   <div class="wrapper">
     <image :src="logo" class="logo" />
-    <text class="greeting">The environment is eady!</text>
-    <switch checked="true"></switch>
+    <text class="greeting">The environment is Ready!</text>
+    <switch checked="false"></switch>
     <HelloWorld/>
   </div>
 </template>
